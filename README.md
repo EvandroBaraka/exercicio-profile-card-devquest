@@ -21,6 +21,8 @@ Exercício inspirado no desafio [Profile card component challenge on Frontend Me
 
 - Construir o projeto de acordo com o design fornecido usando HTML e CSS.
 
+- Eu optei por fazer o card com um personagem famoso de minha região, Badin - o colono.
+
 ### Screenshots
 
 ![](./design/screenshot-resultado.png)

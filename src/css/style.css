@@ -68,7 +68,8 @@ main {
     flex: 1 0 80px;
 }
 
-.dados-insta strong {
+.dados-insta strong,
+.perfil .nome {
     color: black;
     font-weight: 700;
 }
