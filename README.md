@@ -29,8 +29,8 @@ Exercício inspirado no desafio [Profile card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL Solução: [Repositório Github](https://github.com/EvandroBaraka/exercicio-profile-card-devquest)
+- URL do site: [Site Profile Card](https://evandrobaraka.github.io/exercicio-profile-card-devquest/)
 
 ## Meu processo
 
